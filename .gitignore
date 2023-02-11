@@ -12,4 +12,11 @@ venv
 .idea
 **/artifacts/
 **/models/
-*.code-workspace
+s*.code-workspace
+
+__pycache__/
+**.env
+**.terraform/
+**.terraform.lock*
+**terraform.tfstate*
+
